@@ -1,6 +1,6 @@
 # Tauri + React + Typescript
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This is an old fortnite launcher used by the project Vortyx aka a brazilian project. there owner has scammed multiple people. this is why im publishing it. all credits go to Cynx
 
 ## Recommended IDE Setup
 
