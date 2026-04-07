@@ -1,10 +1,13 @@
 # Tauri + React + Typescript
 
-This is an old Fortnite launcher (version 12.41) originally made by Cynx. I’m sharing it publicly because he has been repeatedly reselling the exact same launcher to different people, essentially recycling the same product and charging over and over again.
+This is an old Fortnite launcher that I’m publishing because I felt like sharing it with the community as I move on to newer projects.
 
-I don’t support or maintain this launcher in any way  use it entirely at your own risk.
+I won’t be providing any support or updates for this version, so if you choose to use it, please do so at your own risk.
 
-Just to be clear: this is being posted to expose that he’s taking advantage of customers by reselling identical work multiple times instead of offering anything new or original.
+## Credits
+
+Please give credit to **secret_pabloback (Discord)** if you use or share this.
+
 
 ## Recommended IDE Setup
 
