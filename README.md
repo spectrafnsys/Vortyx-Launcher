@@ -6,7 +6,7 @@ I won’t be providing any support or updates for this version, so if you choose
 
 ## Credits
 
-Please give credit to **secret_pabloback (Discord)** if you use or share this.
+Please give credit to **zoom.dev (Discord)** if you use or share this.
 
 
 ## Recommended IDE Setup
